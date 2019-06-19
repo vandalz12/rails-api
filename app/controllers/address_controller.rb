@@ -4,4 +4,8 @@ class AddressController < ApplicationController
     
   end
   
+  def getAddress
+    
+  end
+  
 end
